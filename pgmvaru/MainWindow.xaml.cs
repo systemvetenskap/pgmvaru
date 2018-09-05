@@ -34,6 +34,7 @@ namespace pgmvaru
             int number = 56;
             string text = "hej";
             char c = 'a';
+            int two = 233;
         }
     }
 }
