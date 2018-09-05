@@ -24,5 +24,11 @@ namespace pgmvaru
         {
             InitializeComponent();
         }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Hej");
+            MessageBox.Show("Hopp");
+        }
     }
 }
