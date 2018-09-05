@@ -33,6 +33,7 @@ namespace pgmvaru
             // det här är en ny variabel
             int number = 56;
             string text = "hej";
+            char c = 'a';
         }
     }
 }
