@@ -32,8 +32,9 @@ namespace pgmvaru
             MessageBox.Show("Falleralla");
             // det här är en ny variabel
             int number = 56;
+            string text = "hej";
             char c = 'a';
-            string test2 = "#sdfsdfsdf";
+            int two = 233;
         }
     }
 }
