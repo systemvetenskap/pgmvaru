@@ -36,5 +36,10 @@ namespace pgmvaru
             char c = 'a';
             int two = 233;
         }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            //intressant kod
+        }
     }
 }
